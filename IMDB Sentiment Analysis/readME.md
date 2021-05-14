@@ -1,4 +1,4 @@
-# Seniment Analysis on IMDB dataset.
+# Sentiment Analysis on IMDB dataset.
 
 There is a sample of IMDB movie reviews. Sentiment analysis is done using a dictionary of word score. 
 
