@@ -15,6 +15,6 @@ Given a list of more than 1000+ text (dataset attached) from news websites aroun
        If yes, represent with a suitable visualization/ table with names of authors who have collaborated/ worked together and the count/number of the articles for each pair. 
 
 
-Named Entity Recognition has been used to identify important person,org,norp etc from article.Used Displacy to visualise NER.
+Basic EDA, Dataframe manipulation using Pandas,Lemmatization has been used for the above project. Named Entity Recognition has been used to identify important person,org,norp etc from article.Used Displacy to visualise NER.
 
 ![Spacy NER](https://user-images.githubusercontent.com/75038775/126723993-0c437f4f-2d71-4e76-b982-fde6133b455a.jpg)
